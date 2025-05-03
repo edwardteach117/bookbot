@@ -6,6 +6,6 @@ def get_book_text(book_path):
     return text
 
 def main():
-    print(get_book_text('C:/Users/samue/Bootbot/bookbot/books/frankenstein.txt'))
+    print(get_book_text('~/bookbot/books/frankenstein.txt'))
 
 main()
